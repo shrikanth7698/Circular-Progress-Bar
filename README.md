@@ -9,7 +9,7 @@ A simple circular progressbar library for android.
 
 ### Installation
 
-* **Gradle*
+* **Gradle**
 
   Add it in your root build.gradle at the end of repositories:
   ```gradle
