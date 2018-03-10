@@ -46,7 +46,7 @@ public class CircularProgressBar extends View {
         requestLayout();//Because it should recalculate its bounds
     }
 
-    
+
     public void setColor(int color) {
         this.color = color;
         backgroundPaint.setColor(adjustAlpha(color, 0.3f));
